@@ -1,4 +1,4 @@
-Olá! Eu sou a Janine Santos.
+## Olá! Eu sou a Janine Santos.
 
 <!--
 **janinelps/janinelps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
