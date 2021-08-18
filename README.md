@@ -1,4 +1,6 @@
-## Olá! Eu sou a Janine Santos. <a href="https://www.imagensanimadas.com/cat-computadores-56.htm"><img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0019.gif" border="0" alt="computador-imagem-animada-0019" /></a> 
+## Olá! Eu sou a Janine Santos. 
+<a href="https://www.imagensanimadas.com/cat-computadores-56.htm?page=1"><img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0111.gif" border="0" alt="computador-imagem-animada-0111" /></a> 
+
 
 <!--
 **janinelps/janinelps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
