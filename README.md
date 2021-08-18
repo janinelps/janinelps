@@ -1,5 +1,4 @@
-## Olá! Eu sou a Janine Santos. 
-<a href="https://www.imagensanimadas.com/cat-computadores-56.htm?page=1"><img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0111.gif" border="0" alt="computador-imagem-animada-0111" /></a> 
+## Olá! Eu sou a Janine Santos. <a href="https://www.imagensanimadas.com/cat-computadores-56.htm?page=1"><img align="center" alt="GIF" src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0111.gif" border="0" alt="computador-imagem-animada-0111" width="150px"/></a> 
 
 
 <!--
@@ -22,7 +21,9 @@
 </div>
 
 <div style="display: inline_block"><br>
-
+ 
+ <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1629297410627.png" width="250px" />
+ 
   <img align="center" alt="Janine-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
   <img align="center" alt="Janine-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
