@@ -7,7 +7,8 @@
 
 - 🥇 Atualmente estou estagiando na ThoughtWorks.
 - 🌱 Cursando Faculdade de ADS.
-- 👯 Estou participando atualmente de três BootCamps em front-ends com SPAs (React) , Java, Spring Boot  e Fullstack Developer.
+- 👯 Estou participando atualmente de três BootCamps em front-ends com SPAs (React) , Java, Spring Boot  e Fullstack 
+<!-- 📝 Veja meu <a href="" target="_blank">Currículo</a> para mais informações. -->
 
 ##
 
