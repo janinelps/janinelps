@@ -8,7 +8,8 @@
 - 🥇 Atualmente estou estagiando na Thought Works alocada na PUCRS.
 - 🌱 Cursando Faculdade de ADS.
 - 👯 Estou participando atualmente de dois BootCamps em front-ends com SPAs (React) , Java, Spring Boot  e Fullstack. 
-- 📝 Veja meu <a href="https://www.canva.com/design/DAEne8Y2TNQ/Dt0XmA5WdhOrXCTlfHwGLA/view?utm_content=DAEne8Y2TNQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" target="_blank">Currículo</a> para mais informações.
+- 📫 Se quiser pode enviar um email para janinelpss@gmail.com
+- 📝 Veja meu <a href="https://drive.google.com/file/d/1EEcSF8t2A87QBWLHt07mPGMFAYX7Q5cb/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
 
 ##
 
