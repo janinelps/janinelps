@@ -5,10 +5,10 @@
 **janinelps/janinelps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
 
-- 🥇 Atualmente estou estagiando na ThoughtWorks.
+- 🥇 Atualmente estou estagiando na Thought Works alocada na PUCRS.
 - 🌱 Cursando Faculdade de ADS.
-- 👯 Estou participando atualmente de três BootCamps em front-ends com SPAs (React) , Java, Spring Boot  e Fullstack 
-<!-- 📝 Veja meu <a href="" target="_blank">Currículo</a> para mais informações. -->
+- 👯 Estou participando atualmente de dois BootCamps em front-ends com SPAs (React) , Java, Spring Boot  e Fullstack. 
+- 📝 Veja meu <a href="https://www.canva.com/design/DAEne8Y2TNQ/Dt0XmA5WdhOrXCTlfHwGLA/view?utm_content=DAEne8Y2TNQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" target="_blank">Currículo</a> para mais informações.
 
 ##
 
@@ -25,15 +25,15 @@
  
  <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1629297410627.png" width="250px" />
  
-  <img align="center" alt="Janine-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="left" alt="Janine-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-  <img align="center" alt="Janine-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="left" alt="Janine-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
-  <img align="center" alt="Janine-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="left" alt="Janine-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img align="center" alt="Janine-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="left" alt="Janine-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-  <img align="center" alt="Janine-Java" height="30" width="40"    
+  <img align="left" alt="Janine-Java" height="30" width="40"    
 src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
  
 </div>
