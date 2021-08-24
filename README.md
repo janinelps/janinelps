@@ -5,11 +5,11 @@
 **janinelps/janinelps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
 
-- 🥇 Atualmente estou estagiando na Thought Works alocada na PUCRS.
+- 🥇 Atualmente estou estagiando na Aceleradora Ágil vinculado com a PUCRS.
 - 🌱 Cursando Faculdade de ADS.
-- 👯 Estou participando atualmente de dois BootCamps em front-ends com SPAs (React) , Java, Spring Boot  e Fullstack. 
+- 👯 Estou participando atualmente de dois BootCamps em front-end e Fullstack. 
 - 📫 Se quiser pode enviar um email para janinelpss@gmail.com
-- 📝 Veja meu <a href="https://drive.google.com/file/d/1EEcSF8t2A87QBWLHt07mPGMFAYX7Q5cb/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
+- 📝 Veja meu <a href="https://drive.google.com/file/d/1Ef8KmTYulOj_0C5HQTsfRbbLjf0ta3nd/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
 
 ##
 
