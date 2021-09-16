@@ -9,7 +9,7 @@
 - 🌱 Cursando Faculdade de ADS.
 - 👯 Estou participando atualmente de dois BootCamps em front-end e Fullstack. 
 - 📫 Se quiser pode enviar um email para janinelpss@gmail.com
-- 📝 Veja meu <a href="https://drive.google.com/drive/u/0/folders/1ZM5S65mZhOipv4S2qzDXwbeWwxlX0eqs" target="_blank">Currículo</a> para mais informações.
+- 📝 Veja meu <a href="https://drive.google.com/file/d/16QTQLkvjXaI18BpPCmhb31UghkGcAbDO/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
 
 ##
 
