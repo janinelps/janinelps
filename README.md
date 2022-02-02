@@ -6,8 +6,8 @@
 --> 
 
 - 🥇 Atualmente estou estagiando na Aceleradora Ágil vinculado com a PUCRS.
-- 🌱 Cursando Faculdade de ADS.
-- 👯 Estou participando atualmente de dois BootCamps em front-end e Fullstack. 
+- 🌱 Cursando Faculdade de Análise e Desenvolvimento de Sistemas.
+- 👯 Cursando Senai - programa DEVinHOUSE - Jornada de 9(nove) meses de aceleração da carreira de desenvolvedor Fullstack. HTML | CSS | JS | React | C# | .NET | SQL | DOCKER | Mensageria e testes autorizados.
 - 📫 Se quiser pode enviar um email para janinelpss@gmail.com
 - 📝 Veja meu <a href="https://drive.google.com/file/d/1nJV8oFRIG6DP8jy9Cn5g6BtTWYXQ5RLv/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
 
