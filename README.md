@@ -7,7 +7,7 @@
 
 - 🥇 Atualmente estou estagiando na Aceleradora Ágil vinculado com a PUCRS.
 - 🌱 Cursando Faculdade de Análise e Desenvolvimento de Sistemas.
-- 👯 Cursando Senai - programa DEVinHOUSE - Jornada de 9(nove) meses de aceleração da carreira de desenvolvedor Fullstack. HTML | CSS | JS | React | C# | .NET | SQL | DOCKER | Mensageria e testes autorizados.
+- 👯 Curso Senai - programa DEVinHOUSE - Jornada de 9(nove) meses de aceleração da carreira de desenvolvedor Fullstack. HTML | CSS | JS | React | C# | .NET | SQL | DOCKER | Mensageria e testes autorizados.
 - 📝 Veja meu <a href="https://drive.google.com/file/d/17kJ8A2LzjQvx1dBPtda6YUuas3Mw8Vcs/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
 
 <h4>🤝 Contatos:</h4>
